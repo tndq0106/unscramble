@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Unscramble app
 =================================
 
@@ -19,3 +20,6 @@ Getting Started
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+=======
+# unscramble
+>>>>>>> f3f9ce1f056c46e5daa4c0c0c3a96b0f2651a8bd
